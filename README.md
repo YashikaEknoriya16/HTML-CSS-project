@@ -1,4 +1,4 @@
-# HTML-CSS-project
+# My frist project
 
 This is my first Git repository.
 <br>
